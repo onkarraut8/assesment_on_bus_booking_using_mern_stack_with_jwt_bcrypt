@@ -15,7 +15,7 @@ This project uses the following technologies:
 - **Express**: Web framework for Node.js.
 - **React**: Front-end library for building user interfaces.
 - **Node.js**: JavaScript runtime for server-side development.
-- **Other libraries/tools**: Mongoose, Axios, nodemon, jwt, bcrypt.js, toastify, axios,).
+- **Other libraries/tools**: Mongoose, Axios, nodemon, jwt, bcrypt.js, toastify, axios etc..
 
 To run backend type 'npm run dev' in terminal
 
