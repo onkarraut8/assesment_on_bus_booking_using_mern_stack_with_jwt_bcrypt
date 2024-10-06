@@ -21,4 +21,4 @@ To run backend type 'npm run dev' in terminal
 
 To run front end type 'npm start' in terminal
 
-**Url for register admin -- 'http://localhost:3000/register/admin'
+**Url for register admin** -- 'http://localhost:3000/register/admin'
